@@ -1,10 +1,9 @@
 # Pop Cat Recycle Bin Icon Changer #
-This project is a Python application that allows you to change the recycle bin icon in Windows to a delightful Pop Cat icon. By utilizing the power of Python, you can easily customize your recycle bin and add a touch of fun to your desktop.
+This project is a Python application that allows you to change the recycle bin icon in Windows to a Pop Cat icon.
 ![Alt Text](https://github.com/shalayiding/Recycle-Bin-Icon-Changer/blob/main/pop_cat_recycle_bin_result.gif)
 
 ## Features ##
 * Replaces the default recycle bin icon with a Pop Cat icon.
-* Easy-to-use command line interface.
 * Works on Windows operating systems.
 
 ## Requirements ##
