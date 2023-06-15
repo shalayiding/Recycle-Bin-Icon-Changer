@@ -1,0 +1,4 @@
+winreg
+ctypes
+Pillow
+winshell
