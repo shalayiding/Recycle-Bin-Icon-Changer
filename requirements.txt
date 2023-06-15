@@ -1,4 +1,2 @@
-winreg
-ctypes
 Pillow
 winshell
